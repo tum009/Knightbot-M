@@ -1,6 +1,6 @@
 const settings = {
   packname: 'Knight Bot',
-  author: '‎',
+  author: '‎Bot',
   botName: "Knight Bot",
   botOwner: 'Debjit', // Your name
   ownerNumber: '917439160237', //Set your number here without + symbol, just add country code & number without any space
